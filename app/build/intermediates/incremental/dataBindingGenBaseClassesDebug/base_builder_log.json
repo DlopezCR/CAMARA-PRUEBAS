@@ -1,0 +1,37 @@
+{
+  "dependencies": {},
+  "class_names_log": {
+    "mappings": {
+      "activity_main": {
+        "qualified_name": "com.example.android.camerax.video.databinding.ActivityMainBinding",
+        "module_package": "com.example.android.camerax.video.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_capture": {
+        "qualified_name": "com.example.android.camerax.video.databinding.FragmentCaptureBinding",
+        "module_package": "com.example.android.camerax.video.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_permission": {
+        "qualified_name": "com.example.android.camerax.video.databinding.FragmentPermissionBinding",
+        "module_package": "com.example.android.camerax.video.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_video_viewer": {
+        "qualified_name": "com.example.android.camerax.video.databinding.FragmentVideoViewerBinding",
+        "module_package": "com.example.android.camerax.video.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "video_quality_item": {
+        "qualified_name": "com.example.android.camerax.video.databinding.VideoQualityItemBinding",
+        "module_package": "com.example.android.camerax.video.databinding",
+        "variables": {},
+        "implementations": []
+      }
+    }
+  }
+}
